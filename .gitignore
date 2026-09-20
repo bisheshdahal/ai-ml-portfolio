@@ -58,4 +58,4 @@ logs/
 # Large / raw datasets not meant to be tracked
 # (uncomment or add paths as needed for specific big datasets)
 # ============================================================
-Deep Learning/CNN/images/tulip/
+Deep Learning/CNN/images/
