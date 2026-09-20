@@ -5,3 +5,6 @@ venv/
 env/
 .ipynb_checkpoints/
 Pytorch/Computer_Vision/data/
+Deep Learning/CNN/images
+__pycache__/
+*.pyc
