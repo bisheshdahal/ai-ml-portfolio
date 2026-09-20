@@ -59,3 +59,5 @@ logs/
 # (uncomment or add paths as needed for specific big datasets)
 # ============================================================
 Deep Learning/CNN/images/
+
+pytorch/computer_vision/data/
