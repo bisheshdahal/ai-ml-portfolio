@@ -61,3 +61,6 @@ logs/
 Deep Learning/CNN/images/
 
 pytorch/computer_vision/data/
+__pycache__/
+.venv/
+.ipynb_checkpoints/
